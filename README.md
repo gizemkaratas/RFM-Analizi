@@ -56,9 +56,10 @@ Bu projede, "online_retail_II.xlsx" dosyasındaki "Year 2010-2011" sayfasından 
 1. Bu projeyi yerel bilgisayarınıza klonlayın:
    ```bash
    git clone [repo_url]
-Gerekli kütüphaneleri yükleyin:
-
 bash
-Kodu kopyala
+2. Gerekli kütüphaneleri yükleyin:
+
 pip install pandas numpy matplotlib seaborn
-Jupyter Notebook veya Python ortamında RFM_Analysis.ipynb dosyasını açın ve adımları takip ederek analizi gerçekleştirin.
+
+3. Jupyter Notebook veya Python ortamında RFM_Analysis.ipynb dosyasını açın ve adımları takip ederek analizi gerçekleştirin.
+
