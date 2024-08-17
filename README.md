@@ -61,5 +61,5 @@ Bu projede, "online_retail_II.xlsx" dosyasındaki "Year 2010-2011" sayfasından 
    ```bash
    pip install pandas numpy matplotlib seaborn
 
-3. Jupyter Notebook veya Python ortamında RFM_Analysis.ipynb dosyasını açın ve adımları takip ederek analizi gerçekleştirin.
+3. Jupyter Notebook veya Python ortamında RFM_Analizi.ipynb dosyasını açın ve adımları takip ederek analizi gerçekleştirin.
 
