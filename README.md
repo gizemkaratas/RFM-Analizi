@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/856d2b40-5e3d-47fc-bfe4-e902fd44e432)
+
 # Müşteri Analizi ve RFM Segmentasyonu
 
 Bu proje, e-ticaret verilerini kullanarak müşteri analizi yapmayı ve RFM (Recency, Frequency, Monetary) segmentasyonu oluşturmayı amaçlamaktadır. RFM analizi, müşterilerin alışveriş davranışlarını daha iyi anlamak ve pazarlama stratejilerini optimize etmek için kullanılan bir tekniktir.
