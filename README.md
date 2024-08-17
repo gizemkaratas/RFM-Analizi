@@ -41,6 +41,21 @@ Bu projede, "online_retail_II.xlsx" dosyasındaki "Year 2010-2011" sayfasından 
   - `new_customers`
   - `potential_loyalists`
 
+- Champion (Şampiyonlar): Son alışverişi yakın tarihte yapmış, sık sık alışveriş yapan ve yüksek harcama yapan müşteriler.
+
+- Loyal Customers (Sadık Müşteriler): Düzenli alışveriş yapan ancak son alışverişi biraz eski olan, orta-yüksek harcama yapan müşteriler.
+
+- At Risk (Risk Altındaki Müşteriler): Daha önce düzenli alışveriş yapan ancak son dönemde alışveriş sıklığı düşmüş müşteriler.
+
+- Needs Attention (Dikkat Gerektiren Müşteriler): Son alışverişi uzak tarihte olan, alışveriş sıklığı ve harcaması orta seviyede olan müşteriler.
+
+- New Customers (Yeni Müşteriler): Kısa süre önce alışveriş yapmış ancak alışveriş sıklığı ve harcaması düşük olan müşteriler.
+
+- Potential Loyalists (Potansiyel Sadık Müşteriler): Kısa süre önce alışveriş yapmış ve belirli bir sıklıkta alışveriş yapan, ancak harcaması daha düşük olan müşteriler.
+
+- Cant Lose (Kaybedilemeyecek Müşteriler): Müşteri sadakati yüksek ancak son alışverişi biraz eski olan ve yüksek harcama yapan müşteriler.
+
+- Hibernating (Uyuyan Müşteriler): Uzun zamandır alışveriş yapmamış, düşük alışveriş sıklığı ve harcaması olan müşteriler.
 ### Sonuçlar
 
 - Segmentlerin ortalama recency, frequency ve monetary değerleri analiz edilmiştir.
