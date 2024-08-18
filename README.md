@@ -56,6 +56,21 @@ Bu projede, "online_retail_II.xlsx" dosyasındaki "Year 2010-2011" sayfasından 
 - Cant Lose (Kaybedilemeyecek Müşteriler): Müşteri sadakati yüksek ancak son alışverişi biraz eski olan ve yüksek harcama yapan müşteriler.
 
 - Hibernating (Uyuyan Müşteriler): Uzun zamandır alışveriş yapmamış, düşük alışveriş sıklığı ve harcaması olan müşteriler.
+
+- Son Alışveriş Zamanı:
+
+Uzun Süre: 6 ay ile 1 yıl veya daha fazla süre.
+Kısa Süre: Son 1-3 ay.
+Alışveriş Sıklığı:
+
+Düşük Sıklık: Ayda 1 defadan daha az.
+Orta Sıklık: Ayda 1-3 defa.
+Yüksek Sıklık: Ayda 4 defa veya daha fazla.
+Harcama Miktarı:
+
+Düşük Harcama: Aylık harcama ortalamasının en alt yüzde 20'si.
+Orta Harcama: Aylık harcama ortalamasının orta seviyesinde.
+Yüksek Harcama: Aylık harcama ortalamasının en üst yüzde 20'si.
 ### Sonuçlar
 
 - Segmentlerin ortalama recency, frequency ve monetary değerleri analiz edilmiştir.
